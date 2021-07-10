@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - npc
+  - Meleca
+  - Mask
+  - player
+  - Saida
+  - Mascarado
+  - Mouse
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - NPCs
+  - ProjetilMeleca
+  - Barreira
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: MouseTeste
+    uniqueID: 1879120035
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
